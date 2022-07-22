@@ -1,0 +1,39 @@
+.navbar-nav li a {
+  font-size: 17px;
+}
+
+.navbar-brand {
+  letter-spacing: 3px;
+}
+
+.card {
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+.card:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+  -webkit-box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+          box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.product img {
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+.product img:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.footer {
+  -webkit-box-shadow: 0 -10px 10px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 -10px 10px rgba(0, 0, 0, 0.1);
+}
+
+.iconFooter {
+  font-size: 24px;
+}
+/*# sourceMappingURL=App.css.map */
